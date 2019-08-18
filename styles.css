@@ -1,0 +1,9 @@
+.box{
+    display: none;
+}
+.open{
+    display: block;
+}
+#openbox{
+    cursor: pointer;
+}
